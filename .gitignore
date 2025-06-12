@@ -1,0 +1,12 @@
+# Ignore datasets, models, and builds  
+Dataset/  
+dataset/  
+data/  
+*.keras  
+*.h5  
+*.pth  
+*.zip  
+node_modules/  
+target/  
+.DS_Store  
+Thumbs.db 
