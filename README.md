@@ -19,3 +19,4 @@ Make sure to download and place them in the appropriate directories.
 - `/app` → React Frontend
 - `/demo` → Spring Boot Backend
 - `Model.ipynb` → ML model notebook
+"# Medicinal_Plant_Recognition_and_Knowledge_Extraction_Using_Convolutional_Neural_Networks" 
